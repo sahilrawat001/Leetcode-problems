@@ -7,5 +7,6 @@ public:
             ans=ans^nums[i];
         }
         return ans;
+        
     }
 };
